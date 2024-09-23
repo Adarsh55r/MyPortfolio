@@ -204,6 +204,14 @@ section {
   font-weight: 500;
 }
 
+.upper-div {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  /* justify-content: space-between; */
+  gap: 20px; /* Space between elements */
+}
+
 .btn-pink {
   background-color: rgb(89, 171, 171);
   width: fit-content;
